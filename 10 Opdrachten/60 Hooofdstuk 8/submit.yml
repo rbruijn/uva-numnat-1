@@ -1,0 +1,13 @@
+name: opdracht8
+form: false
+required: 
+    - randomnumber.py
+    - plots randomnumber
+    - mcintegrate.py
+    - plots integrate
+    - randomwalk.py
+    - plots randomwalk
+    - traffic.py
+    - plots traffic
+optional:
+      

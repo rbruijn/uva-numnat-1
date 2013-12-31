@@ -1,0 +1,7 @@
+name: opdracht9
+form: false
+required: 
+    - scatter.py
+    - graphical results
+optional:
+      

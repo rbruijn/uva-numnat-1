@@ -1,0 +1,7 @@
+name: opdracht10
+form: false
+required: 
+    - program code
+    - graphical results
+optional:
+      

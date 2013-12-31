@@ -1,0 +1,7 @@
+name: opdracht7
+form: false
+required: 
+    - electrostat.py
+    - plots
+optional:
+    - plotsextra

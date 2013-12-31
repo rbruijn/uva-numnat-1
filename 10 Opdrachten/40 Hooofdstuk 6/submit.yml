@@ -1,0 +1,8 @@
+name: opdracht6
+form: false
+required: 
+    - hspec.py
+    - plots
+optional:
+    - morse.py
+    - plotsmorse
