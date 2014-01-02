@@ -8,7 +8,7 @@ van de UvA is van toepassing.
 [fraude- en plagiaatwebsite](http://www.uva.nl/plagiaat)
 
 De maximale score kan behaald worden als alle opdrachten zijn voltooid.
-Opdrachten 1 tot en met 6 tellen bij elkaar voor 50% mee. Opdrachten 7 en 8 
+Opdrachten 1 tot en met 6 tellen bij elkaar voor 25% mee. Opdrachten 7 en 8 
 bij elkaar voor 25% en opdracht 9 en 10 elk 25%. Een voldoende is te behalen
 als alle opdrachten tot en met 9 voltooid zijn. Er is maximaal 1 bonuspunt te
 halen met extra of origineel werk.
