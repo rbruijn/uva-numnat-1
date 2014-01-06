@@ -4,7 +4,7 @@
 Alle benodigde informatie voor Numerieke Natuurkunde (januari 2014) kan gevonden
 worden in de syllabus.
 
-[Syllabus Numerieke Natuurkunde 1](numnat_2014_v0.99.pdf)
+[Syllabus Numerieke Natuurkunde](numnat_v20140107_1.pdf)
 
 ## Extra materiaal
 De file vana.py behorende bij opdracht 7:
@@ -21,3 +21,8 @@ verslagen:
 [Van Allen Gordels](numnat_vanallen.pdf)
 
 [Quantum](numnat_quantum.pdf)
+
+## Slides 
+Hier zijn de slides van het eerste college, met daarin gedetailleerde
+informatie over toetsing etc.
+[slides](slides_col_1_2014.pdf)
