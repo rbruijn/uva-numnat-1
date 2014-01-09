@@ -65,17 +65,19 @@ for i in range(1,myconstants.nstep):
 Vxy1 = [0]*myconstants.nstep
 xy1 = [0]*myconstants.nstep
 
-for i in range(1,myconstants.nstep):
+for i in range(0,myconstants.nstep):
     Vxy1[i]=V[i][myconstants.nstep/2]
     xy1[i]=x[i]
 
 Vxy2 = [0]*myconstants.nstep
 xy2 = [0]*myconstants.nstep
 
-for i in range(1,myconstants.nstep):
+for i in range(0,myconstants.nstep):
     Vxy2[i]=V[myconstants.nstep/2][i]
     xy2[i]=y[i]
 
 plt.plot(xy1,Vxy1)
 plt.plot(xy2,Vxy2)
+plt.ylabel('Potential [a.u.]')
+plt.xlabel('position [a.u.]')
 plt.show()
