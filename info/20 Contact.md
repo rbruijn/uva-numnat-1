@@ -6,7 +6,8 @@ tel (020) 5925196
 <R.Bruijn@uva.nl>
 
 ## Assistenten
-Martijn Jongen
-Tino Michael
-Gabriele Sabato
-Eline Wieldraaijer
+Martijn Jongen  
+Tino Michael  
+Gabriele Sabato  
+Karel Melis  
+Timon van de Velde  
