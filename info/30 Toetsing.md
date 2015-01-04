@@ -20,10 +20,10 @@ programmatuur, overzichtelijkheid, commentaar en originaliteit. Een aantal richt
 gevonden worden.
 
 Zoals boven beschreven, zijn de opdrachten in 4 sets verdeeld:
-* Hoofdstuk/Opdracht 3 t/m 6
-* Hoofdstuk/Opdracht 7 en 8
-* Hoofdstuk/Opdracht 9
-* Hoofdstuk/Opdracht 10
+  * Hoofdstuk/Opdracht 3 t/m 6
+  * Hoofdstuk/Opdracht 7 en 8
+  * Hoofdstuk/Opdracht 9
+  * Hoofdstuk/Opdracht 10
 Voor elk van de sets zijn 4 sessies van 4 uur gerekend. De deadline voor de sets opdrachten
 is op de dag dat de laatste sessie behorende bij desbetreffende set plaatsvind, om 18.00 uur.
 De deadlines hangen dus af van de groep waarin je ingedeeld bent.
@@ -53,21 +53,21 @@ Deze moeten in de juiste hoeveelheid aanwezig zijn. Niet te veel, niet te weinig
 
 Een aantal richtlijnen voor commentaar:
 
-*Begin je programma met je naam, studentnummer en programma naam
+  * Begin je programma met je naam, studentnummer en programma naam
 Geef een korte omschrijving van wat het programma doet
-*Licht toe wat je variabelen voorstellen (en kies duidelijke namen).
-*Geef een korte omschrijving bij elke functie en klasse. Hierbij moet je ook toelichten wat de argumenten van de functie zijn.
-*Geef een korte omschrijving bij elk 'blok' of 'paragraaf' in je code. Bijvoorbeeld bij een for-loop waarin veel gebeurt.
-*Geef niet op elke regel commentaar! Het is dus niet de bedoeling dat je bijvoorbeeld schrijft: “tel 1 op bij i” . 
-*Echter, geef wel commentaar bij kleine manipulaties die niet zo voor de hand liggen
-*Schrijf het commentaar vooral voor jezelf! Je moet je eigen code later kunnen teruglezen en begrijpen.
-*Schrijf het commentaar terwijl je bezig bent, zodat je niet achteraf moet uitzoeken wat je ook alweer gedaan hebt.
+  * Licht toe wat je variabelen voorstellen (en kies duidelijke namen).
+  * Geef een korte omschrijving bij elke functie en klasse. Hierbij moet je ook toelichten wat de argumenten van de functie zijn.
+  * Geef een korte omschrijving bij elk 'blok' of 'paragraaf' in je code. Bijvoorbeeld bij een for-loop waarin veel gebeurt.
+  * Geef niet op elke regel commentaar! Het is dus niet de bedoeling dat je bijvoorbeeld schrijft: “tel 1 op bij i” . 
+  * Echter, geef wel commentaar bij kleine manipulaties die niet zo voor de hand liggen
+  * Schrijf het commentaar vooral voor jezelf! Je moet je eigen code later kunnen teruglezen en begrijpen.
+  * Schrijf het commentaar terwijl je bezig bent, zodat je niet achteraf moet uitzoeken wat je ook alweer gedaan hebt.
 
 ###Leesbaarheid
 De code moet goed leesbaar en overzichtelijk zijn. Dit kan, naast het correct gebruik van comments, op onder andere de volgende manieren:
-*Geef variabelen duidelijke namen
-*Gebruik witregels om functies en andere logisch gescheiden onderdelen van je code aan te geven.
-*Verwijder onnodige code voor je je programma inlevert.
+  * Geef variabelen duidelijke namen
+  * Gebruik witregels om functies en andere logisch gescheiden onderdelen van je code aan te geven.
+  * Verwijder onnodige code voor je je programma inlevert.
 ###Efficiëntie
 Als je programma wel werkt maar veel langzamer is dan noodzakelijk door de manier waarop je geprogrammeerd hebt dan krijg je daar puntenaftrek voor. Wanneer je slimme trucs toepast om je programma sneller te maken kun je daarmee extra punten verdienen.  
 Bij sommige opdrachten is het onoverkomelijk dat het programma wat tijd nodig heeft om het resultaat te berekenen, maar dit is zeker niet de regel! Dus, als je programma er wat langer over doet, probeer dan te bedenken of het aan de aard van het probleem ligt, of aan je eigen keuzes voor de implementatie.
@@ -78,8 +78,8 @@ Veiligheid
 Probeer er voor te zorgen dat je code niet vastloopt wanneer er iets onverwachts gebeurt. Als je bijvoorbeeld de wortel van een getal uit moet rekenen, is het meestal slim om te controleren dat dat getal niet negatief is.
 
 ###Grafieken
-*Geef de assen de juiste labels, inclusief eenheden (indien van toepassing)
-*Vergeet de titel niet. Zorg dat meteen duidelijk is wat er geplot is.
-*Kies je beginvoorwaarden en bereik zodanig de interessante gebieden goed zichtbaar zijn. 
-*Denk na over de fysische betekenis van je figuur en controleer dat wat je ziet logisch is. 
-*Een grafiek moet helpen bij het begrijpen van het probleem. Een grafiek die inzicht in het probleem verschaft wordt zeer gewaardeerd.
+  * Geef de assen de juiste labels, inclusief eenheden (indien van toepassing)
+  * Vergeet de titel niet. Zorg dat meteen duidelijk is wat er geplot is.
+  * Kies je beginvoorwaarden en bereik zodanig de interessante gebieden goed zichtbaar zijn. 
+  * Denk na over de fysische betekenis van je figuur en controleer dat wat je ziet logisch is. 
+  * Een grafiek moet helpen bij het begrijpen van het probleem. Een grafiek die inzicht in het probleem verschaft wordt zeer gewaardeerd.
