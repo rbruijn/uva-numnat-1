@@ -11,7 +11,7 @@ tel (020) 5925196
 Voor zaken als persoonlijke afspraken, uitzonderingen, vooruitwerken, ziekmelden en bespreken van becijfering kan je bij de docent terecht. 
 
 ## Assistenten
-Gedurende de practica zijn er één of meedere assistenten aanwezig. Bij de 
+Gedurende de practica zijn er één of meerdere assistenten aanwezig. Bij de 
 assistent kan je terecht voor:
 
   * begeleiding bij het oplossen van de opdrachten
