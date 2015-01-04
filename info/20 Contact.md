@@ -13,6 +13,7 @@ Voor zaken als persoonlijke afspraken, uitzonderingen, vooruitwerken, ziekmelden
 ## Assistenten
 Gedurende de practica is er een assistent aanwezig. Bij de 
 assistent kan je terecht voor:
+
   * begeleiding bij het oplossen van de opdrachten
   * suggesties voor verbetering
   * feedback op ingeleverde opdrachten (Het zal helaas niet mogelijk zijn
