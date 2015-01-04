@@ -20,10 +20,12 @@ programmatuur, overzichtelijkheid, commentaar en originaliteit. Een aantal richt
 gevonden worden.
 
 Zoals boven beschreven, zijn de opdrachten in 4 sets verdeeld:
+
   * Hoofdstuk/Opdracht 3 t/m 6
   * Hoofdstuk/Opdracht 7 en 8
   * Hoofdstuk/Opdracht 9
   * Hoofdstuk/Opdracht 10
+
 Voor elk van de sets zijn 4 sessies van 4 uur gerekend. De deadline voor de sets opdrachten
 is op de dag dat de laatste sessie behorende bij desbetreffende set plaatsvind, om 18.00 uur.
 De deadlines hangen dus af van de groep waarin je ingedeeld bent.
@@ -54,7 +56,7 @@ Deze moeten in de juiste hoeveelheid aanwezig zijn. Niet te veel, niet te weinig
 Een aantal richtlijnen voor commentaar:
 
   * Begin je programma met je naam, studentnummer en programma naam
-Geef een korte omschrijving van wat het programma doet
+  * Geef een korte omschrijving van wat het programma doet
   * Licht toe wat je variabelen voorstellen (en kies duidelijke namen).
   * Geef een korte omschrijving bij elke functie en klasse. Hierbij moet je ook toelichten wat de argumenten van de functie zijn.
   * Geef een korte omschrijving bij elk 'blok' of 'paragraaf' in je code. Bijvoorbeeld bij een for-loop waarin veel gebeurt.
