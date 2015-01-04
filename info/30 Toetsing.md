@@ -69,6 +69,7 @@ De code moet goed leesbaar en overzichtelijk zijn. Dit kan, naast het correct ge
   * Geef variabelen duidelijke namen
   * Gebruik witregels om functies en andere logisch gescheiden onderdelen van je code aan te geven.
   * Verwijder onnodige code voor je je programma inlevert.
+
 ###Efficiëntie
 Als je programma wel werkt maar veel langzamer is dan noodzakelijk door de manier waarop je geprogrammeerd hebt dan krijg je daar puntenaftrek voor. Wanneer je slimme trucs toepast om je programma sneller te maken kun je daarmee extra punten verdienen.  
 Bij sommige opdrachten is het onoverkomelijk dat het programma wat tijd nodig heeft om het resultaat te berekenen, maar dit is zeker niet de regel! Dus, als je programma er wat langer over doet, probeer dan te bedenken of het aan de aard van het probleem ligt, of aan je eigen keuzes voor de implementatie.
