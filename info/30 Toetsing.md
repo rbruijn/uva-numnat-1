@@ -30,8 +30,6 @@ Voor elk van de sets zijn 4 sessies van 4 uur gerekend. De deadline voor de sets
 is op de dag dat de laatste sessie behorende bij desbetreffende set plaatsvind, om 18.00 uur.
 De deadlines hangen dus af van de groep waarin je ingedeeld bent.
 
-Aanwezigheid bij het prakticum is verplicht. Neem voor uitzonderingen contact op met de docent.
-
 ## Inleveren van de opdrachten
 De opdrachten dienen electronisch ingeleverd te worden. Dit kan via
 de link 'Opdrachten' en vervolgens de 'submit' link behorende bij de opdracht.
