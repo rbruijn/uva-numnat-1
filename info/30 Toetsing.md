@@ -82,6 +82,7 @@ Probeer er voor te zorgen dat je code niet vastloopt wanneer er iets onverwachts
 
 ###Grafieken
   * Geef de assen de juiste labels, inclusief eenheden (indien van toepassing)
+  * Kies zinnige eenheden voor de verschillende grootheden. Tijd is bijvoorbeeld gediscretiseerd in je programma; vertaal dit naar seconden, uren of een andere logische eenheid. 
   * Vergeet de titel niet. Zorg dat meteen duidelijk is wat er geplot is.
   * Kies je beginvoorwaarden en bereik zodanig de interessante gebieden goed zichtbaar zijn. 
   * Denk na over de fysische betekenis van je figuur en controleer dat wat je ziet logisch is. 
