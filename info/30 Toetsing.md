@@ -74,7 +74,8 @@ Bij sommige opdrachten is het onoverkomelijk dat het programma wat tijd nodig he
 
 ###Gebruik van functies (Hergebruik van code)
 Als je code moet knippen en plakken ben je over het algemeen verkeerd bezig! Als een stukje code meer dan eens gebruikt wordt is het bijna altijd de moeite waard er een functie van te maken.
-Veiligheid
+
+###Veiligheid
 Probeer er voor te zorgen dat je code niet vastloopt wanneer er iets onverwachts gebeurt. Als je bijvoorbeeld de wortel van een getal uit moet rekenen, is het meestal slim om te controleren dat dat getal niet negatief is.
 
 ###Grafieken
