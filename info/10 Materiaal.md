@@ -4,7 +4,7 @@
 Alle benodigde informatie voor Numerieke Natuurkunde (januari 2015) kan gevonden
 worden in de syllabus.
 
-[Syllabus Numerieke Natuurkunde](numnat_v20140122_1.pdf)
+[Syllabus Numerieke Natuurkunde](numnat_v20150104_1.pdf)
 
 ## Extra materiaal
 De file vana.py behorende bij hoofdstuk/opdracht 7:
