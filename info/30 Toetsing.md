@@ -41,7 +41,8 @@ programma-code.
 
 ###Waar letten de student-assistenten op bij het corrigeren?
 Hier is een (onvolledige) lijst van beoordelingscriteria voor de ingeleverde opdrachten. Probeer op deze punten te controleren voordat je je werk inlevert.
-Lees de opdracht!
+
+###Lees de opdracht!
 Kijk goed of je alles hebt gedaan dat in de opdracht gevraagd wordt. Als je een onderdeel vergeet loop je punten mis.
 
 ###Correctheid
