@@ -1,4 +1,4 @@
-#Contact
+#Contact/Begeleiding
 
 ## Docent
 Ronald Bruijn   
@@ -22,12 +22,13 @@ feedback krijgen.)
   * algemene informatie over het vak
 
 Elke groep heeft een vaste assistent. Het kan incidenteel voorkomen dat een 
-sessie begeleid wordt door een van de anderen.
+sessie begeleid wordt door één van de anderen.
 
 De assistenten zijn: 
 
-* Tino Michael (2015 Groep A)  
-* Martijn Jongen (2015 Groep B) 
-* Gabriele Sabato  (2015 Groep C) 
-* Timon van de Velde (2015 Groep D) 
+
+* Martijn Jongen (2016 Groep A) 
+* Timon van de Velde (2016 Groep B)
+* Rico Visser (2016 Groep C)
+* Nick de Dycker (2016 Groep D) 
 * Karel Melis (Alle groepen) 
