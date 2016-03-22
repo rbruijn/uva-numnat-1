@@ -1,7 +1,7 @@
 # Materiaal
 
 ## Syllabus
-Alle benodigde informatie voor Numerieke Natuurkunde (januari 2015) kan gevonden
+Alle benodigde informatie voor Numerieke Natuurkunde kan gevonden
 worden in de syllabus.
 
 [Syllabus Numerieke Natuurkunde](numnat_v20150104_1.pdf)

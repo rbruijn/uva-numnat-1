@@ -9,9 +9,8 @@ van de UvA is van toepassing.
 
 De maximale score kan behaald worden als alle opdrachten zijn voltooid. Hoofdstukken
 3 tot en met 10 van de syllabus bevatten de opdrachten.
-Opdrachten 3 tot en met 6 tellen bij elkaar voor 25% mee. Opdrachten 7 en 8 
-bij elkaar voor 25% en opdracht 9 en 10 elk 25%. Een voldoende 
-is te behalen als alle opdrachten tot en met 9 voltooid zijn. Er is maximaal 1 bonuspunt te
+Opdrachten 3 tot en met 6 tellen bij elkaar voor 30% mee. Opdrachten 7 en 8 
+bij elkaar voor 30% en opdracht 9 en 10  40%. Er is maximaal 1 bonuspunt te
 halen met extra of origineel werk. Aanwezigheid is verplicht.
 De programmacode van de opdrachten dient voltooid, zonder fouten, met commentaar en werkend
 ingeleverd te worden samen met de grafische resultaten. Bij de beoordeling worden een aantal 
@@ -19,16 +18,16 @@ opdrachten in detail bekeken (6,8,9 en 10) waarbij extra gelet wordt op de kwali
 programmatuur, overzichtelijkheid, commentaar en originaliteit. Een aantal richtlijnen kunnen beneden
 gevonden worden.
 
-Zoals boven beschreven, zijn de opdrachten in 4 sets verdeeld:
+Zoals boven beschreven, zijn de opdrachten in 3 sets verdeeld:
 
-  * Hoofdstuk/Opdracht 3 t/m 6
+  * Hoofdstuk/Opdracht 3 t/m 6 
   * Hoofdstuk/Opdracht 7 en 8
-  * Hoofdstuk/Opdracht 9
-  * Hoofdstuk/Opdracht 10
+  * Hoofdstuk/Opdracht 9 en 10
+  
 
-Voor elk van de sets zijn 4 sessies van 4 uur gerekend. De deadline voor de sets opdrachten
-is op de dag dat de laatste sessie behorende bij desbetreffende set plaatsvind, om 18.00 uur.
-De deadlines hangen dus af van de groep waarin je ingedeeld bent.
+Voor de eerste twee sets zijn elk twee dagen van 8 uur gerekend, voor de laatste set 3 dagen van 8 uur. 
+De deadline voor de sets opdrachten is op de dag dat de laatste sessie behorende bij desbetreffende set
+plaatsvind, om 18.00 uur.
 
 ## Inleveren van de opdrachten
 De opdrachten dienen electronisch ingeleverd te worden. Dit kan via
