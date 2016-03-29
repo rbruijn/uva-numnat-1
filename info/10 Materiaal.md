@@ -1,15 +1,21 @@
 # Materiaal
 
 ## Syllabus
-Alle benodigde informatie voor Numerieke Natuurkunde kan gevonden
+Alle benodigde informatie voor dit vak kan gevonden
 worden in de syllabus.
 
-[Syllabus Numerieke Natuurkunde](numnat_v20150104_1.pdf)
+[Syllabus Programmeren voor Natuur- en Sterrenkunde 2](numnat_v20150104_1.pdf)
 
 ## Extra materiaal
 De file vana.py behorende bij hoofdstuk/opdracht 7:
 
 [vana.py](vana.py)
+
+##Laptops en Python
+Net zoals bij het vak programmeren voor natuur- en sterrenkunde maken we gebruik van de programmeertaal python.
+Je zal dus moeten beschikken over een python distributie op je laptop. We raden het pakket Canopy aan.
+Voor installatie van dit pakket (en enige tips in het gebruik van python), verwijzen we naar de [eerste module
+van het vak programmeren voor natuur- en sterrenkunde](https://progns.mprog.nl/module-1/basiselementen)
 
 ## Vrije keuze opdrachten
 Achtergrond informatie m.b.t. drie vrije keuze opdrachten (hoofdstuk/opdracht 10) kun 
@@ -30,4 +36,5 @@ Mocht je zelf een suggestie hebben voor een opdracht, bespreek dit dan met de do
 
 ##Website
 Op deze website kan je de syllabus en aanvullende informatie en materiaal vinden. Ook dient het gebruikt te worden om de opdrachten in te leveren. 
+
 
