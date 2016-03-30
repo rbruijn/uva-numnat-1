@@ -4,7 +4,7 @@
 Alle benodigde informatie voor dit vak kan gevonden
 worden in de syllabus.
 
-[Syllabus Programmeren voor Natuur- en Sterrenkunde](numnat_v20150104_1.pdf)
+[Syllabus Programmeren voor Natuur- en Sterrenkunde](prog2_20160330_1.pdf)
 
 ## Extra materiaal
 De file vana.py behorende bij hoofdstuk/opdracht 7:
