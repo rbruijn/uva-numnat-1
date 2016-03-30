@@ -20,21 +20,26 @@ gevonden worden.
 
 Zoals boven beschreven, zijn de opdrachten in 3 sets verdeeld:
 
-  * Hoofdstuk/Opdracht 3 t/m 6 
-  * Hoofdstuk/Opdracht 7 en 8
-  * Hoofdstuk/Opdracht 9 en 10
+  * Hoofdstuk/Opdracht 3 t/m 6 (Deadline: 7 april 2016)
+  * Hoofdstuk/Opdracht 7 en 8  (Deadline: 21 april 2016)
+  * Hoofdstuk/Opdracht 9 en 10 (Deadline: 19 mei 2016)
   
 
 Voor de eerste twee sets zijn elk twee dagen van 8 uur gerekend, voor de laatste set 3 dagen van 8 uur. 
 De deadline voor de sets opdrachten is op de dag dat de laatste sessie behorende bij desbetreffende set
-plaatsvind, om 18.00 uur.
+plaatsvind, om 18.00 uur. Het laatst ingeleverde werk telt, tenzij er feedback gegeven is (zie beneden).
 
 ## Inleveren van de opdrachten
 De opdrachten dienen electronisch ingeleverd te worden. Dit kan via
-de link 'Opdrachten' en vervolgens de 'submit' link behorende bij de opdracht.
+de link 'Submit' en vervolgens de link behorende bij de opdracht/hoofdstuk.
 Hiervoor is inloggen via een UvA-id noodzakelijk. Zet je naam en UvA-id ook in je
 programma-code.
 
+## Feedback
+Opdrachten kunnen ook vóór de deadline ingeleverd worden. Als dit minstens een week
+van te voren is, stelt ons dit in staat alvast naar het ingeleverde werk te kijken 
+en indien gewenst wat feedback te geven (op een deel van) de opdracht(en). Opdrachten waarop op deze manier feedback is
+gegeven kunnen niet nog een keer ingeleverd worden.
 
 ## Tips
 
@@ -43,6 +48,11 @@ Hier is een (onvolledige) lijst van beoordelingscriteria voor de ingeleverde opd
 
 ###Lees de opdracht!
 Kijk goed of je alles hebt gedaan dat in de opdracht gevraagd wordt. Als je een onderdeel vergeet loop je punten mis.
+
+### Produceren van de resultaten
+De ingeleverde programmas dienen uitgevoerd te worden en de resultaten te presenteren. Dus, als er bijvoorbeeld getallen gevraagd worden,
+moet het programma deze met begeleidend commentaar op het scherm weergeven. De programmas dienen ook de (tevens ingeleverde)
+grafische resultaten te produceren.
 
 ###Correctheid
 De ingeleverde programma code dient de juiste resultaten te produceren. Voor veel opdrachten is het mogelijk een exact antwoord te definieren, maar bij sommigen is dit soms iets moeilijker. Monte-Carlo opdrachten zijn bijvoorbeeld onderhevig aan statistische fluctutaties. Echter, in dit geval is het wel duidelijk waarnaar de oplossing moet convergeren. (Tip: zorg in zo een geval dat de hoeveelheid bemonsteringen genoeg is !)  Er zijn ook opdrachten waar van je verwacht word dat je geschikte beginwaarden kiest. Hoewel de keuze van de beginwaarden de eindresultaten beinvloeden, is dit een goed gedefinieerde relatie en dus te toetsen. 
