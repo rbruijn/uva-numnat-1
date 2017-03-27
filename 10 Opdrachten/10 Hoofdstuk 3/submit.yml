@@ -1,6 +1,6 @@
 name: opdracht3
-form: false
-required: 
-    - primes.py
-optional:
+files:
+    required: 
+     - primes.py
+    optional:
       
