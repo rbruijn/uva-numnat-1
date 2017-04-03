@@ -1,8 +1,8 @@
 name: opdracht6
-form: false
-required: 
+files:
+  required: 
     - hspec.py
     - plots
-optional:
+  optional:
     - morse.py
     - plotsmorse

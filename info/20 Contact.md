@@ -16,9 +16,7 @@ assistent kan je terecht voor:
 
   * begeleiding bij het oplossen van de opdrachten
   * suggesties voor verbetering
-  * feedback op ingeleverde opdrachten (Het zal helaas niet mogelijk zijn
-om alle opdrachten tijdens de cursus na te kijken, maar je kan wel 
-feedback krijgen.)
+  * feedback op ingeleverde opdrachten 
   * algemene informatie over het vak
 
 Elke groep heeft een vaste assistent. Het kan incidenteel voorkomen dat een 
@@ -26,9 +24,11 @@ sessie begeleid wordt door één van de anderen.
 
 De assistenten zijn: 
 
-
-* Martijn Jongen (2016 Groep A) 
-* Timon van de Velde (2016 Groep B)
-* Rico Visser (2016 Groep C)
-* Nick de Dycker (2016 Groep D) 
-* Karel Melis (Alle groepen) 
+* Mieke Bouwhuis (Groep A)
+* Nick de Dycker (Groep B)
+* Rob Hesselink (Groep D)
+* Julien Manshanden (Groep B)
+* Karel Melis (Groep A)
+* Maarten Post (Groep C) 
+* Birgit Stapf (Groep D)
+* Rico Visser (Groep C)

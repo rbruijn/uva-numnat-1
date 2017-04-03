@@ -9,8 +9,8 @@ van de UvA is van toepassing.
 
 De maximale score kan behaald worden als alle opdrachten zijn voltooid. Hoofdstukken
 3 tot en met 10 van de syllabus bevatten de opdrachten.
-Opdrachten 3 tot en met 6 tellen bij elkaar voor 30% mee. Opdrachten 7 en 8 
-bij elkaar voor 30% en opdracht 9 en 10  40%. Er is maximaal 1 bonuspunt te
+Opdrachten 3 tot en met 6 tellen bij elkaar voor 25% mee. Opdrachten 7 en 8 
+bij elkaar voor 25% en opdracht 9 en 10 elk 25%. Er is maximaal 1 bonuspunt te
 halen met extra of origineel werk. Aanwezigheid is verplicht.
 De programmacode van de opdrachten dient voltooid, zonder fouten, met commentaar en werkend
 ingeleverd te worden samen met de grafische resultaten. Bij de beoordeling worden een aantal 
@@ -18,16 +18,17 @@ opdrachten in detail bekeken (6,8,9 en 10) waarbij extra gelet wordt op de kwali
 programmatuur, overzichtelijkheid, commentaar en originaliteit. Een aantal richtlijnen kunnen beneden
 gevonden worden.
 
-Zoals boven beschreven, zijn de opdrachten in 3 sets verdeeld:
+Zoals boven beschreven, zijn de opdrachten in 4 sets verdeeld:
 
-  * Hoofdstuk/Opdracht 3 t/m 6 (Deadline: 7 april 2016)
-  * Hoofdstuk/Opdracht 7 en 8  (Deadline: 21 april 2016)
-  * Hoofdstuk/Opdracht 9 en 10 (Deadline: 19 mei 2016)
+  * Hoofdstuk/Opdracht 3 t/m 6
+  * Hoofdstuk/Opdracht 7 en 8 
+  * Hoofdstuk/Opdracht 9 
+  * Hoofdstuk/Opdracht 10
   
 
-Voor de eerste twee sets zijn elk twee dagen van 8 uur gerekend, voor de laatste set 3 dagen van 8 uur. 
+Voor alle sets zijn 16 contacturen gerekend, dat is dus in principe 4 dagdelen. 
 De deadline voor de sets opdrachten is op de dag dat de laatste sessie behorende bij desbetreffende set
-plaatsvind, om 18.00 uur. Het laatst ingeleverde werk telt, tenzij er feedback gegeven is (zie beneden).
+plaatsvind, om 18.00 uur. Het laatst ingeleverde werk telt.
 
 ## Inleveren van de opdrachten
 De opdrachten dienen electronisch ingeleverd te worden. Dit kan via
@@ -36,10 +37,9 @@ Hiervoor is inloggen via een UvA-id noodzakelijk. Zet je naam en UvA-id ook in j
 programma-code.
 
 ## Feedback
-Opdrachten kunnen ook vóór de deadline ingeleverd worden. Als dit minstens een week
-van te voren is, stelt ons dit in staat alvast naar het ingeleverde werk te kijken 
-en indien gewenst wat feedback te geven (op een deel van) de opdracht(en). Opdrachten waarop op deze manier feedback is
-gegeven kunnen niet nog een keer ingeleverd worden.
+Na het inleveren van een set opdrachten wordt deze nagekeken. De student-assistenten kunnen je in de volgende
+contact-momenten kort vertellen hoe je de opdrachten gedaan hebt en hoe je eventueel je werk kan verbeteren (als dat nodig is).
+Zorg dat je weet wie je vaste assistent is.  Kijk bij 'Tips' om te zien waar bij het nakijken op gelet wordt. 
 
 ## Tips
 
@@ -48,11 +48,14 @@ Hier is een (onvolledige) lijst van beoordelingscriteria voor de ingeleverde opd
 
 ###Lees de opdracht!
 Kijk goed of je alles hebt gedaan dat in de opdracht gevraagd wordt. Als je een onderdeel vergeet loop je punten mis.
+Vaak worden er tests in de tekst van de opdracht genoemd zoals bijvoorbeeld het controleren van de resultaten 
+van een functie die je hebt moeten implementeren als deel van de opdracht. Deze tests horen bij de opdracht en dienen
+dus ook door je programma gedaan te worden!
 
 ### Produceren van de resultaten
 De ingeleverde programmas dienen uitgevoerd te worden en de resultaten te presenteren. Dus, als er bijvoorbeeld getallen gevraagd worden,
 moet het programma deze met begeleidend commentaar op het scherm weergeven. De programmas dienen ook de (tevens ingeleverde)
-grafische resultaten te produceren.
+grafische resultaten te produceren. Zoals boven genoemd, horen ook de resultaten van verschillende tests van je programma er bij.
 
 ###Correctheid
 De ingeleverde programma code dient de juiste resultaten te produceren. Voor veel opdrachten is het mogelijk een exact antwoord te definieren, maar bij sommigen is dit soms iets moeilijker. Monte-Carlo opdrachten zijn bijvoorbeeld onderhevig aan statistische fluctutaties. Echter, in dit geval is het wel duidelijk waarnaar de oplossing moet convergeren. (Tip: zorg in zo een geval dat de hoeveelheid bemonsteringen genoeg is !)  Er zijn ook opdrachten waar van je verwacht word dat je geschikte beginwaarden kiest. Hoewel de keuze van de beginwaarden de eindresultaten beinvloeden, is dit een goed gedefinieerde relatie en dus te toetsen. 

@@ -1,7 +1,5 @@
 name: opdracht4
-form: false
-required: 
+files:
+ required: 
     - decay.py
     - plots
-optional:
-      

@@ -1,6 +1,6 @@
 name: opdracht8
-form: false
-required: 
+files:
+ required: 
     - randomnumber.py
     - plots randomnumber
     - mcintegrate.py
@@ -9,5 +9,3 @@ required:
     - plots randomwalk
     - traffic.py
     - plots traffic
-optional:
-      
