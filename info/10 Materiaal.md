@@ -4,7 +4,7 @@
 Alle benodigde informatie voor dit vak kan gevonden
 worden in de syllabus.
 
-[Syllabus Programmeren voor Natuur- en Sterrenkunde](prog2_20170403_1.pdf)
+[Syllabus Programmeren voor Natuur- en Sterrenkunde](prog2_20170404_1.pdf)
 
 De standaard opdracht van hoofdstuk 10 volgt later.
 

@@ -28,7 +28,7 @@ Zoals boven beschreven, zijn de opdrachten in 4 sets verdeeld:
 
 Voor alle sets zijn 16 contacturen gerekend, dat is dus in principe 4 dagdelen. 
 De deadline voor de sets opdrachten is op de dag dat de laatste sessie behorende bij desbetreffende set
-plaatsvind, om 18.00 uur. Het laatst ingeleverde werk telt.
+plaatsvind, om 20.00 uur. Het laatst ingeleverde werk telt.
 
 ## Inleveren van de opdrachten
 De opdrachten dienen electronisch ingeleverd te worden. Dit kan via
