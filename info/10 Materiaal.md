@@ -6,7 +6,6 @@ worden in de syllabus.
 
 [Syllabus Programmeren voor Natuur- en Sterrenkunde](prog2_20170404_1.pdf)
 
-De standaard opdracht van hoofdstuk 10 volgt later.
 
 ## Extra materiaal
 De file vana.py behorende bij hoofdstuk/opdracht 7:
@@ -19,7 +18,17 @@ Je zal dus moeten beschikken over een python distributie op je laptop. We raden 
 Voor installatie van dit pakket (en enige tips in het gebruik van python), verwijzen we naar de [eerste module
 van het vak programmeren voor natuur- en sterrenkunde](https://progns.mprog.nl/module-1/basiselementen)
 
-## Vrije keuze opdrachten
+## Opdracht (Hoofdstuk) 10 / Vrije keuze opdrachten
+
+[Laser-Doppler Anemometrie/Fitten van Data](lda_opdracht10.pdf)
+Dit is de standaard opdracht. In deze opdracht zal je gegevens verzameld
+met het Laser-Doppler Anemometrie practicum experiment analyseren.
+
+Meetgegevens behorden bij deze opdracht kan [hier](meetgegevens_lda.zip) vinden.
+
+Wat betreft moeilijkheidsgraad ligt deze opdracht tussen 'Van Allen Gordels' en 'Quantum'.
+
+
 Achtergrond informatie m.b.t. drie vrije keuze opdrachten (hoofdstuk/opdracht 10) kun 
 je vinden in de bibliotheek en je mag je ook laten inspireren door de volgende 
 verslagen (in volgorde van moeilijkheid):
