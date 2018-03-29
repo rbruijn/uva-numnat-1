@@ -24,11 +24,9 @@ sessie begeleid wordt door één van de anderen.
 
 De assistenten zijn: 
 
-* Mieke Bouwhuis (Groep A)
-* Nick de Dycker (Groep B)
-* Rob Hesselink (Groep D)
+* Deanne Eerbeek (Groep A)
+* Rob Hesselink (Groep A)
 * Julien Manshanden (Groep B)
-* Karel Melis (Groep A)
-* Maarten Post (Groep C) 
-* Birgit Stapf (Groep D)
-* Rico Visser (Groep C)
+* Rico Visser (Groep B)
+* Mike de Haan (Groep C)
+* Kelly Weerman (Groep C)
