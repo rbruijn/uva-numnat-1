@@ -13,9 +13,7 @@ Opdrachten 3 tot en met 6 tellen bij elkaar voor 25% mee. Opdrachten 7 en 8
 bij elkaar voor 25% en opdracht 9 en 10 elk 25%. Er is maximaal 1 bonuspunt te
 halen met extra of origineel werk. Aanwezigheid is verplicht.
 De programmacode van de opdrachten dient voltooid, zonder fouten, met commentaar en werkend
-ingeleverd te worden samen met de grafische resultaten. Bij de beoordeling worden een aantal 
-opdrachten in detail bekeken (6,8,9 en 10) waarbij extra gelet wordt op de kwaliteit van de
-programmatuur, overzichtelijkheid, commentaar en originaliteit. Een aantal richtlijnen kunnen beneden
+ingeleverd te worden samen met de grafische resultaten.  Een aantal richtlijnen betreffende stijl kunnen beneden
 gevonden worden.
 
 Zoals boven beschreven, zijn de opdrachten in 4 sets verdeeld:
@@ -24,11 +22,14 @@ Zoals boven beschreven, zijn de opdrachten in 4 sets verdeeld:
   * Hoofdstuk/Opdracht 7 en 8 
   * Hoofdstuk/Opdracht 9 
   * Hoofdstuk/Opdracht 10
-  
 
-Voor alle sets zijn 16 contacturen gerekend, dat is dus in principe 4 dagdelen. 
-De deadline voor de sets opdrachten is op de dag dat de laatste sessie behorende bij desbetreffende set
-plaatsvindt, om 20.00 uur. Het laatst ingeleverde werk telt.
+Voor de eerste 2 sets zijn elk 16 contacturen beschikbaar. De deadline voor de sets opdrachten is op de dag dat de laatste
+sessie behorende bij desbetreffende set plaatsvindt, om 23.59 uur. Voor de laatste twee sets (9 en 10) is een totaal van 24 contacturen beschikbaar,
+maar de deadline voor opdracht 9 is na 16 contacturen. Bepaal zelf hoeveel contacturen je reserveert voor opdracht 10.
+
+**Let op:** Door rooster-technische redenen is het mogelijk om meer dan 16 contacturen aan een set te werken voor de deadline, let hier op
+en deel zelf je tijd in.
+De deadlines worden ook door de assistenten aangegeven.
 
 ## Inleveren van de opdrachten
 De opdrachten dienen electronisch ingeleverd te worden. Dit kan via
