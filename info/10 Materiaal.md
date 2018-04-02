@@ -21,13 +21,12 @@ van het vak programmeren voor natuur- en sterrenkunde](https://progns.mprog.nl/m
 ## Opdracht (Hoofdstuk) 10 / Vrije keuze opdrachten
 
 [Laser-Doppler Anemometrie/Fitten van Data](lda_opdracht10.pdf)
-Dit is de standaard opdracht. In deze opdracht zal je gegevens verzameld
+In deze opdracht zal je gegevens verzameld
 met het Laser-Doppler Anemometrie practicum experiment analyseren.
 
 Meetgegevens behorden bij deze opdracht kan [hier](meetgegevens_lda.zip) vinden.
 
 Wat betreft moeilijkheidsgraad ligt deze opdracht tussen 'Van Allen Gordels' en 'Quantum'.
-
 
 Achtergrond informatie m.b.t. drie vrije keuze opdrachten (hoofdstuk/opdracht 10) kun 
 je vinden in de bibliotheek en je mag je ook laten inspireren door de volgende 
