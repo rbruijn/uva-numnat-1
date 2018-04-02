@@ -14,9 +14,9 @@ De file vana.py behorende bij hoofdstuk/opdracht 7:
 
 ##Laptops en Python
 Net zoals bij het vak programmeren voor natuur- en sterrenkunde maken we gebruik van de programmeertaal python.
-Je zal dus moeten beschikken over een python distributie op je laptop. We raden het pakket Canopy aan.
-Voor installatie van dit pakket (en enige tips in het gebruik van python), verwijzen we naar de [eerste module
-van het vak programmeren voor natuur- en sterrenkunde](https://progns.mprog.nl/module-1/basiselementen)
+Je zal dus moeten beschikken over een python distributie op je laptop. Een optie zou het pakket  [Canopy](https://store.enthought.com/downloads/) kunnen zijn.
+Voor enige tips in het gebruik van python verwijzen we naar
+[de site van het vak programmeren voor natuur- en sterrenkunde](https://progns.mprog.nl/)
 
 ## Opdracht (Hoofdstuk) 10 / Vrije keuze opdrachten
 
