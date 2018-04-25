@@ -1,0 +1,17 @@
+grades:
+    opdracht3:
+        type: float
+    opdracht4:
+        type: float
+    opdracht5:
+        type: float
+    opdracht6:
+        type: float
+    opdracht7:
+        type: float
+    opdracht8:
+        type: float
+    opdracht9:
+        type: float
+    opdracht10:
+        type: float
