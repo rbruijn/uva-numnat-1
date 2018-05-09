@@ -40,7 +40,8 @@ inzicht.)
 
 [Van Allen Gordels](numnat_vanallen.pdf)
 
-[Quantum](numnat_quantum.pdf)
+De quantum opdracht kan gevonden in dit [document](Quantum_Tunneling.pdf).
+Voor de volledigheid de [oude versie](numnat_quantum.pdf) uit voorgaande jaren.
 
 Mocht je zelf een suggestie hebben voor een opdracht, bespreek dit dan met de docent.
 
