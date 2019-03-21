@@ -24,9 +24,9 @@ sessie begeleid wordt door één van de anderen.
 
 De assistenten zijn: 
 
-* Deanne Eerbeek (Groep A)
-* Rob Hesselink (Groep A)
-* Julien Manshanden (Groep B)
-* Rico Visser (Groep B)
-* Mike de Haan (Groep C)
-* Kelly Weerman (Groep C)
+* Brían O'Fearraigh (Groep A)
+* Iris de Ruiter (Groep A)
+* Clara Gatius (Groep B)
+* Jier Nzuanzu (Groep B)
+* Deanne Eerbeek (Groep C)
+* Sjoerd Terpstra (Groep C)
