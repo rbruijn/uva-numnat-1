@@ -16,24 +16,26 @@ De programmacode van de opdrachten dient voltooid, zonder fouten, met commentaar
 ingeleverd te worden samen met de grafische resultaten.  Een aantal richtlijnen betreffende stijl kunnen beneden
 gevonden worden.
 
-Zoals boven beschreven, zijn de opdrachten in 4 sets verdeeld:
+Zoals boven beschreven, zijn de opdrachten in 4 sets/blokken verdeeld:
 
-  * Hoofdstuk/Opdracht 3 t/m 6
-  * Hoofdstuk/Opdracht 7 en 8 
-  * Hoofdstuk/Opdracht 9 
-  * Hoofdstuk/Opdracht 10
+  * Blok 1 : Hoofdstuk/Opdracht 3 t/m 6
+  * Blok 2 : Hoofdstuk/Opdracht 7 en 8 
+  * Blok 3 : Hoofdstuk/Opdracht 9 
+  * Blok 4 : Hoofdstuk/Opdracht 10
 
-Voor de eerste 2 sets zijn elk 16 contacturen beschikbaar. De deadline voor de sets opdrachten is op de dag dat de laatste
-sessie behorende bij desbetreffende set plaatsvindt, om 23.59 uur. Voor de laatste twee sets (9 en 10) is een totaal van 24 contacturen beschikbaar,
-maar de deadline voor opdracht 9 is na 16 contacturen. Bepaal zelf hoeveel contacturen je reserveert voor opdracht 10.
+Voor de eerste 2 sets zijn elk 16 contacturen beschikbaar. Voor de laatste twee sets (9 en 10) zijn elk 12 contacturen beschikbaar. De deadline voor de sets opdrachten is op de dag dat de laatste sessie behorende bij desbetreffende set plaatsvindt, om 23.59 uur.
+Te weten, de deadlines zijn dus :
 
-**Let op:** Door rooster-technische redenen is het mogelijk om meer dan 16 contacturen aan een set te werken voor de deadline, let hier op
-en deel zelf je tijd in.
+   * Blok 1 : 12 april 2019
+   * Blok 2 :  1 mei 2019
+   * Blok 3 : 10 mei 2019
+   * Blok 4 : 22 mei 2019
+   
 De deadlines worden ook door de assistenten aangegeven.
 
 ## Inleveren van de opdrachten
 De opdrachten dienen electronisch ingeleverd te worden. Dit kan via
-de link 'Submit' en vervolgens de link behorende bij de opdracht/hoofdstuk.
+het menu 'opdrachten' en vervolgens de link behorende bij de opdracht/hoofdstuk.
 Hiervoor is inloggen via een UvA-id noodzakelijk. Zet je naam en UvA-id ook in je
 programma-code.
 

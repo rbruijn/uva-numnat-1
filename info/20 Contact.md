@@ -28,5 +28,5 @@ De assistenten zijn:
 * Iris de Ruiter (Groep A)
 * Clara Gatius (Groep B)
 * Jier Nzuanzu (Groep B)
-* Deanne Eerbeek (Groep C)
+* Deanna Eerbeek (Groep C)
 * Sjoerd Terpstra (Groep C)
