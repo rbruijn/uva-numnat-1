@@ -1,3 +1,9 @@
+# Studiegids
+
+De studiegids kan gevonden worden op de [datanose pagina van dit vak](https://datanose.nl/#course[77182])
+
+Beneden op deze pagina vind je essentiële informatie over hoe dit vak georganiseerd is.
+
 # Materiaal
 
 ## Syllabus
@@ -19,7 +25,8 @@ Voor enige tips in het gebruik van python verwijzen we naar
 [de site van het vak programmeren voor natuur- en sterrenkunde](https://progns.mprog.nl/)
 
 ## Opdracht (Hoofdstuk) 10 / Vrije keuze opdrachten
-
+Informatie over opdracht 10 volgt.
+<!---
 [Laser-Doppler Anemometrie/Fitten van Data](lda_opdracht10.pdf)
 In deze opdracht zal je gegevens verzameld
 met het Laser-Doppler Anemometrie practicum experiment analyseren.
@@ -42,8 +49,9 @@ inzicht.)
 
 De quantum opdracht kan gevonden in dit [document](Quantum_Tunneling.pdf).
 Voor de volledigheid de [oude versie](numnat_quantum.pdf) uit voorgaande jaren.
-
+--->
 Mocht je zelf een suggestie hebben voor een opdracht, bespreek dit dan met de docent.
+
 
 ## Website
 Op deze website kan je de syllabus en aanvullende informatie en materiaal vinden. Ook dient het gebruikt te worden om de opdrachten in te leveren. 
@@ -62,7 +70,7 @@ tel (020) 5925196
 Voor zaken als persoonlijke afspraken, uitzonderingen, vooruitwerken, ziekmelden en bespreken van becijfering kan je bij de docent terecht. 
 
 ## Assistenten
-Gedurende de practica zijn er één of meerdere assistenten aanwezig. Bij de 
+Gedurende de tijden van de practica zijn er één of meerdere assistenten electronisch beschikbaar. Bij de 
 assistent kan je terecht voor:
 
   * begeleiding bij het oplossen van de opdrachten
@@ -70,17 +78,17 @@ assistent kan je terecht voor:
   * feedback op ingeleverde opdrachten 
   * algemene informatie over het vak
 
-Elke groep heeft een vaste assistent. Het kan incidenteel voorkomen dat een 
-sessie begeleid wordt door één van de anderen.
+Elke groep heeft twee vaste assistenten. 
 
 De assistenten zijn: 
 
-* Brían O'Fearraigh (Groep A)
-* Iris de Ruiter (Groep A)
-* Clara Gatius (Groep B)
+* Thijs Juan van Eeden (Groep A)
+* Jelle Conijn (Groep A)
+* Brían O'Fearraigh (Groep B)
+* Simon Ilic (Groep B)
 * Jier Nzuanzu (Groep B)
-* Deanna Eerbeek (Groep C)
-* Sjoerd Terpstra (Groep C)
+* Iris de Ruiter (Groep C)
+* William Torre (Groep C)
 
 # Toetsing
 
@@ -107,15 +115,13 @@ Zoals boven beschreven, zijn de opdrachten in 4 sets/blokken verdeeld:
   * Blok 3 : Hoofdstuk/Opdracht 9 
   * Blok 4 : Hoofdstuk/Opdracht 10
 
-Voor de eerste 2 sets zijn elk 16 contacturen beschikbaar. Voor de laatste twee sets (9 en 10) zijn elk 12 contacturen beschikbaar. De deadline voor de sets opdrachten is op de dag dat de laatste sessie behorende bij desbetreffende set plaatsvindt, om 23.59 uur.
-Te weten, de deadlines zijn dus :
+Voor de eerste 2 sets zijn elk 16 contacturen beschikbaar. Voor de laatste twee sets (9 en 10) zijn elk 12 contacturen beschikbaar. Elk van de sets heeft een eigen deadline, om 23.59u op de dag in de lijst beneden:
 
-   * Blok 1 : 12 april 2019
-   * Blok 2 :  1 mei 2019
-   * Blok 3 : 10 mei 2019
-   * Blok 4 : 22 mei 2019
-   
-De deadlines worden ook door de assistenten aangegeven.
+   * Blok 1 : 15 april 2020
+   * Blok 2 : 30 april 2020
+   * Blok 3 : 10 mei 2020
+   * Blok 4 : 20 mei 2020
+
 
 ## Inleveren van de opdrachten
 De opdrachten dienen electronisch ingeleverd te worden. Dit kan via
@@ -130,7 +136,7 @@ Zorg dat je weet wie je vaste assistent is.  Kijk bij 'Tips' om te zien waar bij
 
 ## Tips
 
-###Waar letten de student-assistenten op bij het corrigeren?
+### Waar letten de student-assistenten op bij het corrigeren?
 Hier is een (onvolledige) lijst van beoordelingscriteria voor de ingeleverde opdrachten. Probeer op deze punten te controleren voordat je je werk inlevert.
 
 ###Lees de opdracht!
@@ -144,11 +150,11 @@ De ingeleverde programmas dienen uitgevoerd te worden en de resultaten te presen
 moet het programma deze met begeleidend commentaar op het scherm weergeven. De programmas dienen ook de (tevens ingeleverde)
 grafische resultaten te produceren. Zoals boven genoemd, horen ook de resultaten van verschillende tests van je programma er bij.
 
-###Correctheid
+### Correctheid
 De ingeleverde programma code dient de juiste resultaten te produceren. Voor veel opdrachten is het mogelijk een exact antwoord te definieren, maar bij sommigen is dit soms iets moeilijker. Monte-Carlo opdrachten zijn bijvoorbeeld onderhevig aan statistische fluctutaties. Echter, in dit geval is het wel duidelijk waarnaar de oplossing moet convergeren. (Tip: zorg in zo een geval dat de hoeveelheid bemonsteringen genoeg is !)  Er zijn ook opdrachten waar van je verwacht word dat je geschikte beginwaarden kiest. Hoewel de keuze van de beginwaarden de eindresultaten beinvloeden, is dit een goed gedefinieerde relatie en dus te toetsen. 
 Kortom, overtuig jezelf ervan dat je programma het juiste resultaat levert.
 
-###Commentaar (in je code)
+### Commentaar (in je code)
 Deze moeten in de juiste hoeveelheid aanwezig zijn. Niet te veel, niet te weinig. Schrijf geen hele boekwerken maar zorg ervoor dat het voor anderen (en jezelf in de toekomst) duidelijk is wat er waar gebeurt.
 
 Een aantal richtlijnen voor commentaar:
@@ -163,23 +169,23 @@ Een aantal richtlijnen voor commentaar:
   * Schrijf het commentaar vooral voor jezelf! Je moet je eigen code later kunnen teruglezen en begrijpen.
   * Schrijf het commentaar terwijl je bezig bent, zodat je niet achteraf moet uitzoeken wat je ook alweer gedaan hebt.
 
-###Leesbaarheid
+### Leesbaarheid
 De code moet goed leesbaar en overzichtelijk zijn. Dit kan, naast het correct gebruik van comments, op onder andere de volgende manieren:
   * Geef variabelen duidelijke namen
   * Gebruik witregels om functies en andere logisch gescheiden onderdelen van je code aan te geven.
   * Verwijder onnodige code voor je je programma inlevert.
 
-###Efficiëntie
+### Efficiëntie
 Als je programma wel werkt maar veel langzamer is dan noodzakelijk door de manier waarop je geprogrammeerd hebt dan krijg je daar puntenaftrek voor. Wanneer je slimme trucs toepast om je programma sneller te maken kun je daarmee extra punten verdienen.  
 Bij sommige opdrachten is het onoverkomelijk dat het programma wat tijd nodig heeft om het resultaat te berekenen, maar dit is zeker niet de regel! Dus, als je programma er wat langer over doet, probeer dan te bedenken of het aan de aard van het probleem ligt, of aan je eigen keuzes voor de implementatie.
 
-###Gebruik van functies (Hergebruik van code)
+### Gebruik van functies (Hergebruik van code)
 Als je code moet knippen en plakken ben je over het algemeen verkeerd bezig! Als een stukje code meer dan eens gebruikt wordt is het bijna altijd de moeite waard er een functie van te maken.
 
-###Veiligheid
+### Veiligheid
 Probeer er voor te zorgen dat je code niet vastloopt wanneer er iets onverwachts gebeurt. Als je bijvoorbeeld de wortel van een getal uit moet rekenen, is het meestal slim om te controleren dat dat getal niet negatief is.
 
-###Grafieken
+### Grafieken
   * Geef de assen de juiste labels, inclusief eenheden (indien van toepassing)
   * Kies zinnige eenheden voor de verschillende grootheden. Tijd is bijvoorbeeld gediscretiseerd in je programma; vertaal dit naar seconden, uren of een andere logische eenheid. 
   * Vergeet de titel niet. Zorg dat meteen duidelijk is wat er geplot is.
