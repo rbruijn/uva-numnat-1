@@ -1,0 +1,4 @@
+name: opdracht3
+files:
+    required: 
+     - primes.py

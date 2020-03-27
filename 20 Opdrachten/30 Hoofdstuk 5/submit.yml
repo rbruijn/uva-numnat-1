@@ -1,0 +1,5 @@
+name: opdracht5
+files:
+ required: 
+    - particle1dim.py
+    - plots

@@ -1,0 +1,11 @@
+name: opdracht8
+files:
+ required: 
+    - randomnumber.py
+    - plots randomnumber
+    - mcintegrate.py
+    - plots integrate
+    - randomwalk.py
+    - plots randomwalk
+    - traffic.py
+    - plots traffic
