@@ -24,9 +24,7 @@ Informatie over opdracht 10 volgt.
 [//]: # [Laser-Doppler Anemometrie/Fitten van Data](lda_opdracht10.pdf)
 [//]: # In deze opdracht zal je gegevens verzameld
 [//]: # met het Laser-Doppler Anemometrie practicum experiment analyseren.
-
 [//]: # Meetgegevens behorden bij deze opdracht kan [hier](meetgegevens_lda.zip) vinden.
-
 [//]: # Wat betreft moeilijkheidsgraad ligt deze opdracht tussen 'Van Allen Gordels' en 'Quantum'.
 
 [//]: # Achtergrond informatie m.b.t. drie vrije keuze opdrachten (hoofdstuk/opdracht 10) kun 
