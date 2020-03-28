@@ -1,6 +1,7 @@
 # Studiewijzer
 
-In de balk aan de linkerkant vind je links naar alle benodigde materiaal en informatie over het vak.
+In de balk aan de linkerkant vind je links naar alle benodigde materiaal en informatie over het vak,
+in het bijzonder de syllabus met opdrachten benodigd om dit vak te doen en de wijze van toetsing.
 
 De studiewijzer kan gevonden worden op de [datanose pagina van dit vak](https://datanose.nl/#course[77182])
 
@@ -17,7 +18,7 @@ Een aantal electronische hulpmiddelen worden al jaren gebruikt voor deze cursus,
 zal niets aan veranderen. Naast het verkijgen van het materiaal en informatie zal het inleveren van de opdrachten
 via deze site gebeuren, de opdrachten
 zelf staan in deze syllabus. Je kan ook extra materiaal, benodigd voor sommige opdrachten (in het bijzonder
-hoofdstukken 7 en 10) op de site vinden. **Dit staat allemaal op de site en in deze syllabus uitgelegd.**
+hoofdstukken 7 en 10) op de site vinden. *Dit staat allemaal op de site en in de syllabus uitgelegd.*
 
 ## Online: Hoe hulp te krijgen en vragen te stellen
 Er zijn twee kanalen via welke je hulp kan krijgen of vragen kan stellen :

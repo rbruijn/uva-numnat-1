@@ -30,3 +30,11 @@ De assistenten zijn:
 * Jier Nzuanzu (Groep B)
 * Iris de Ruiter (Groep C)
 * William Torre (Groep C)
+
+## Hoe de assistenten en docent te bereiken
+
+In de balk aan de linkerkant staan links die je kan gebruiken
+om de assistenten en docent te bereiken, bijvoorbeeld (eigenlijk voornamelijk)
+voor hulp bij een opdracht. Op de beginpagina ("studiewijzer") staat uitgelegd
+hoe dit contact werkt. Bij onduidelijkheden over het contact, email dan naar de
+docent (contactgegevens in Informatie/Contact)
