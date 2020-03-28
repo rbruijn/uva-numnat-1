@@ -27,7 +27,6 @@ proberen de vragen in volgorde van plaatsing te behandelen. Het systeem laat ook
 en uit te voeren. Als je een vraag stelt - via *New Thread* - moet je aangeven om welke opdracht het gaat.
 Er is ook de mogelijkheid vragen te stellen in de categorie ``General''. Deze categorie is ook geschikt voor vragen
 over de gang van zaken bij de cursus.
-
 *N.B.* Hoewel het systeem toelaat dat je vragen ook zichtbaar maakt voor je mede-studenten, is het niet
 toegestaan dat jullie elkaar helpen. Wat natuurlijk wel kan is het bediscussieren van de uitleg en theorie in
 de syllabus. In eerste instantie dien je je vragen te beperken tot de assistenten en docent. Je wordt er hierbij aan
