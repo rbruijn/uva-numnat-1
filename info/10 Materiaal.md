@@ -1,6 +1,7 @@
 # Studiewijzer
 
 In de balk aan de linkerkant vind je links naar alle benodigde materiaal en informatie over het vak.
+
 De studiewijzer kan gevonden worden op de [datanose pagina van dit vak](https://datanose.nl/#course[77182])
 
 # Speciale informatie voor de cursus in verband met Covid-19
@@ -9,7 +10,9 @@ Deze cursus was ontwikkeld om gegeven te worden in klassenverband. Door de huidi
 situatie rondom het *coronavirus* en de opgelegde maatregelen, zal de cursus
 in ieder geval bij aanvang ``op afstand'', dus volledig met behulp van electronische
 communicatiemiddelen aangeboden worden.
+
 ## Reeds bestaande hulpmiddelen
+
 Een aantal electronische hulpmiddelen worden al jaren gebruikt voor deze cursus, en daar
 zal niets aan veranderen. Je hebt bijvoorbeeld deze syllabus via de website \url{http:\\numnat.mprog.nl}
 verkregen. Daarnaast zal het inleveren van de opdrachten via de site gebeuren, de opdrachten
@@ -24,7 +27,8 @@ proberen de vragen in volgorde van plaatsing te behandelen. Het systeem laat ook
 en uit te voeren. Als je een vraag stelt - via *New Thread* - moet je aangeven om welke opdracht het gaat.
 Er is ook de mogelijkheid vragen te stellen in de categorie ``General''. Deze categorie is ook geschikt voor vragen
 over de gang van zaken bij de cursus.
-N.B. Hoewel het systeem toelaat dat je vragen ook zichtbaar maakt voor je mede-studenten, is het niet
+
+*N.B.* Hoewel het systeem toelaat dat je vragen ook zichtbaar maakt voor je mede-studenten, is het niet
 toegestaan dat jullie elkaar helpen. Wat natuurlijk wel kan is het bediscussieren van de uitleg en theorie in
 de syllabus. In eerste instantie dien je je vragen te beperken tot de assistenten en docent. Je wordt er hierbij aan
 herinnerd dat het een individueel vak is en dat de fraude- en plagiaat regeling van de UvA geldt.
