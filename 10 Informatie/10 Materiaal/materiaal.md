@@ -20,30 +20,30 @@ Voor enige tips in het gebruik van python verwijzen we naar
 
 ## Opdracht (Hoofdstuk) 10 / Vrije keuze opdrachten
 Informatie over opdracht 10 volgt.
-<!---
-[Laser-Doppler Anemometrie/Fitten van Data](lda_opdracht10.pdf)
-In deze opdracht zal je gegevens verzameld
-met het Laser-Doppler Anemometrie practicum experiment analyseren.
 
-Meetgegevens behorden bij deze opdracht kan [hier](meetgegevens_lda.zip) vinden.
+[//]: # [Laser-Doppler Anemometrie/Fitten van Data](lda_opdracht10.pdf)
+[//]: # In deze opdracht zal je gegevens verzameld
+[//]: # met het Laser-Doppler Anemometrie practicum experiment analyseren.
 
-Wat betreft moeilijkheidsgraad ligt deze opdracht tussen 'Van Allen Gordels' en 'Quantum'.
+[//]: # Meetgegevens behorden bij deze opdracht kan [hier](meetgegevens_lda.zip) vinden.
 
-Achtergrond informatie m.b.t. drie vrije keuze opdrachten (hoofdstuk/opdracht 10) kun 
-je vinden in de bibliotheek en je mag je ook laten inspireren door de volgende 
-verslagen (in volgorde van moeilijkheid):
+[//]: # Wat betreft moeilijkheidsgraad ligt deze opdracht tussen 'Van Allen Gordels' en 'Quantum'.
 
-[Maxwell](numnat_maxwell.pdf)
-(Let op bij bovenstaande opdracht. Het simpelweg implementeren van wat er in
-het paper staat is niet voldoende voor een goede waardering. Breid deze 
-opdracht bijvoorbeeld uit met een extra dimensie of voeg iets toe naar eigen
-inzicht.)
+[//]: # Achtergrond informatie m.b.t. drie vrije keuze opdrachten (hoofdstuk/opdracht 10) kun 
+[//]: # je vinden in de bibliotheek en je mag je ook laten inspireren door de volgende 
+[//]: # verslagen (in volgorde van moeilijkheid):
 
-[Van Allen Gordels](numnat_vanallen.pdf)
+[//]: # [Maxwell](numnat_maxwell.pdf)
+[//]: # (Let op bij bovenstaande opdracht. Het simpelweg implementeren van wat er in
+[//]: # het paper staat is niet voldoende voor een goede waardering. Breid deze 
+[//]: # opdracht bijvoorbeeld uit met een extra dimensie of voeg iets toe naar eigen
+[//]: # inzicht.)
 
-De quantum opdracht kan gevonden in dit [document](Quantum_Tunneling.pdf).
-Voor de volledigheid de [oude versie](numnat_quantum.pdf) uit voorgaande jaren.
---->
+[//]: # [Van Allen Gordels](numnat_vanallen.pdf)
+
+[//]: # De quantum opdracht kan gevonden in dit [document](Quantum_Tunneling.pdf).
+[//]: # Voor de volledigheid de [oude versie](numnat_quantum.pdf) uit voorgaande jaren.
+
 Mocht je zelf een suggestie hebben voor een opdracht, bespreek dit dan met de docent.
 
 
