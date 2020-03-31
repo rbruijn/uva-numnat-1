@@ -23,11 +23,10 @@ Elke groep heeft twee vaste assistenten.
 
 De assistenten zijn: 
 
-* Thijs Juan van Eeden (Groep A)
+* Brían O'Fearraigh (Groep A)
 * Jelle Conijn (Groep A)
-* Brían O'Fearraigh (Groep B)
 * Simon Ilic (Groep B)
-* Jier Nzuanzu (Groep B)
+* Thijs Juan van Eeden (Groep B)
 * Iris de Ruiter (Groep C)
 * William Torre (Groep C)
 
