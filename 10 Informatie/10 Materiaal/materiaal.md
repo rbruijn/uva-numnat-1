@@ -4,7 +4,7 @@
 Alle benodigde informatie voor dit vak kan gevonden
 worden in de syllabus.
 
-[Syllabus Programmeren voor Natuur- en Sterrenkunde](progns_2020_v20200330_1.pdf)
+[Syllabus Programmeren voor Natuur- en Sterrenkunde](progns_2020_v20200330_2.pdf)
 
 
 ## Extra materiaal
