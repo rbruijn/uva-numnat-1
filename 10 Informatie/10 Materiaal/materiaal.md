@@ -35,6 +35,7 @@ je vinden in de bibliotheek en je mag je ook laten inspireren door de volgende v
 (N.B. de minimale aard van de documentatie is in lijn met dat deze vrije opdracht met meer zelfstandigheid gedaan dient te worden.)
 
 [Maxwell](numnat_maxwell.pdf)
+
 (Let op bij bovenstaande opdracht. Het simpelweg implementeren van wat er in
 het paper staat is niet voldoende voor een goede waardering. Breid deze 
 opdracht bijvoorbeeld uit met een extra dimensie of voeg iets toe naar eigen
