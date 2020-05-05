@@ -56,10 +56,15 @@ Wat betreft moeilijkheidsgraad ligt deze opdracht tussen 'Van Allen Gordels' en 
 Het verloop van een epidemie binnen een bevolking kan met verschillende numerieke methoden bestudeerd en gesimuleerd worden.
 Hoewel dit niet direct een fysisch probleem is, zijn de methoden genoeg verwant en is het onderwerp relevant genoeg om je misschien
 te laten inspireren tot een vrije opdracht in deze richting.
+
 Een aantal niet-"academische" bronnen die tot inspiratie kunnen dienen zijn :
+
 [https://www.youtube.com/watch?v=NKMHhm2Zbkw](https://www.youtube.com/watch?v=NKMHhm2Zbkw)
+
 [https://www.youtube.com/watch?v=gxAaO2rsdIs](https://www.youtube.com/watch?v=gxAaO2rsdIs)
+
 [https://www.washingtonpost.com/graphics/2020/world/corona-simulator/](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
+
 [https://meltingasphalt.com/interactive/outbreak/](https://meltingasphalt.com/interactive/outbreak/)
 
 ## Website
