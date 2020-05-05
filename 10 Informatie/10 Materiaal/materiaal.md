@@ -29,7 +29,7 @@ Het moet met een numerieke oplossings methode gebeuren, bijvoorbeeld differentia
 veel deeltjes simulatie (of een andere numerieke methode).
 Er is veel mogelijk, maar de opdracht dient eerst de docent voorgelegd te worden.
 
-# Gesuggereerde opdrachten
+### Gesuggereerde opdrachten
 Achtergrond informatie m.b.t. drie gesuggereerde vrije keuze opdrachten (hoofdstuk/opdracht 10) kun 
 je vinden in de bibliotheek en je mag je ook laten inspireren door de volgende verslagen (in volgorde van moeilijkheid):
 (N.B. de minimale aard van de documentatie is in lijn met dat deze vrije opdracht met meer zelfstandigheid gedaan dient te worden.)
@@ -52,7 +52,7 @@ met het Laser-Doppler Anemometrie practicum experiment analyseren.
 Meetgegevens behorden bij deze opdracht kan [hier](meetgegevens_lda.zip) vinden.
 Wat betreft moeilijkheidsgraad ligt deze opdracht tussen 'Van Allen Gordels' en 'Quantum'.
 
-# Editie 2020: Epidemiologische modellen
+### Editie 2020: Epidemiologische modellen
 Het verloop van een epidemie binnen een bevolking kan met verschillende numerieke methoden bestudeerd en gesimuleerd worden.
 Hoewel dit niet direct een fysisch probleem is, zijn de methoden genoeg verwant en is het onderwerp relevant genoeg om je misschien
 te laten inspireren tot een vrije opdracht in deze richting.
