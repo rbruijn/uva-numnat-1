@@ -32,7 +32,8 @@ Er is veel mogelijk, maar de opdracht dient eerst de docent voorgelegd te worden
 ### Gesuggereerde opdrachten
 Achtergrond informatie m.b.t. drie gesuggereerde vrije keuze opdrachten (hoofdstuk/opdracht 10) kun 
 je vinden in de bibliotheek en je mag je ook laten inspireren door de volgende verslagen (in volgorde van moeilijkheid):
-(N.B. de minimale aard van de documentatie is in lijn met dat deze vrije opdracht met meer zelfstandigheid gedaan dient te worden.)
+
+(**N.B.**: de minimale aard van de documentatie is in lijn met dat deze vrije opdracht met meer zelfstandigheid gedaan dient te worden.)
 
 [Maxwell](numnat_maxwell.pdf)
 
@@ -67,6 +68,9 @@ Een aantal niet-"academische" bronnen die tot inspiratie kunnen dienen zijn :
 [https://www.washingtonpost.com/graphics/2020/world/corona-simulator/](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
 [https://meltingasphalt.com/interactive/outbreak/](https://meltingasphalt.com/interactive/outbreak/)
+
+Let op: het simpelweg implementeren van een model is niet voldoende, je dient het ook te bestuderen. Je kan bijvoorbeeld kijken
+hoe verschillende parameters en (isolatie) maatregelen invloed hebben op de verspreiding.
 
 ## Website
 Op deze website kan je de syllabus en aanvullende informatie en materiaal vinden. Ook dient het gebruikt te worden om de opdrachten in te leveren. 
