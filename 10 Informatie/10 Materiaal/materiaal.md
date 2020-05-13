@@ -44,7 +44,7 @@ inzicht.)
 
 [Van Allen Gordels](numnat_vanallen.pdf)
 
-De **quantum opdracht** kan gevonden in dit [document](Quantum_Tunneling.pdf).
+De **quantum opdracht** kan gevonden in dit [document](Quantum_Tunneling-edited2.pdf) - nieuwe versie 13 mei 2020.
 Voor de volledigheid de [oude versie](numnat_quantum.pdf) uit voorgaande jaren.
 
 Verder is er nog een data-analyse opdracht :
